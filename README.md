@@ -26,4 +26,4 @@ Please contact [Lennart Wittkuhn](mailto:wittkuhn@mpib-berlin.mpg.de).
 
 ## License
 
-MIT
+MIT. Please see the [LICENSE](LICENSE) file for details.
