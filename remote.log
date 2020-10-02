@@ -1,0 +1,1 @@
+b69ffb7e-76bf-4058-853f-747742e2e8f9 chunk=50MiB encryption=none externaltype=rclone name=keeper prefix=git-annex rclone_layout=lower target=datalad-keeper-test type=external timestamp=1601633923.420648s
